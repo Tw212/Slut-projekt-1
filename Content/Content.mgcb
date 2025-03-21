@@ -25,6 +25,18 @@
 /processorParam:TextureFormat=Color
 /build:190-1906306_beauty4-breaking-bad-rv-side-view-hd-png.png
 
+#begin 24233918-vag-och-berg-se-landskap-tecknad-serie-vektor-gratis-vector.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:24233918-vag-och-berg-se-landskap-tecknad-serie-vektor-gratis-vector.jpg
+
 #begin 81d44a9e26630f6fe426c816cbb34a32.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -60,11 +72,6 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:ferrari-96052_1280.png
-
-#begin iris.avif
-/importer:
-/processor:
-/build:iris.avif
 
 #begin pngimg.com - koenigsegg_PNG21.png
 /importer:TextureImporter
